@@ -1,2 +1,2 @@
-revision 5 of the same file
-line-5
+revision 6 of the same file
+line-6
